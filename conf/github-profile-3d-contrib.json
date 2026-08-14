@@ -1,0 +1,32 @@
+{
+  "type": "normal",
+  "fileName": "profile-purple-dual.svg",
+  "backgroundColor": "#ffffff",
+  "foregroundColor": "#1a1b26",
+  "strongColor": "#bb9af7",
+  "weakColor": "#a9b1d6",
+  "radarColor": "#bb9af7",
+  "growingAnimation": true,
+  "contribColors": [
+    "#f0edfa",
+    "#d9cbf7",
+    "#bb9af7",
+    "#9a76e8",
+    "#7d56d6"
+  ],
+  "darkMode": {
+    "type": "normal",
+    "backgroundColor": "#16161e",
+    "foregroundColor": "#c0caf5",
+    "strongColor": "#bb9af7",
+    "weakColor": "#565f89",
+    "radarColor": "#bb9af7",
+    "contribColors": [
+      "#1f2335",
+      "#3d3560",
+      "#56459e",
+      "#7d56d6",
+      "#bb9af7"
+    ]
+  }
+}

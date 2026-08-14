@@ -6,6 +6,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=BB9AF7&center=true&vCenter=true&multiline=true&width=720&height=90&lines=Frontend+Learner;Building+clean-*+series+for+beginners;AI+Agent+%26+MCP+Enthusiast;Make+complex+things+simple)](https://git.io/typing-svg)
 
+<!-- 天气横幅:living-scene Action 每 3 小时按上海天气重绘 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="sky-night.svg" />
+  <img src="sky.svg" width="900" alt="sky" />
+</picture>
+
 </div>
 
 ## 🌱 关于我
@@ -25,6 +31,20 @@
 ![Total Stars](https://img.shields.io/github/stars/zhang17-24?style=for-the-badge&color=BB9AF7)
 ![Repos](https://img.shields.io/badge/Public%20Repos-14-7AA2F7?style=for-the-badge)
 ![AI-learning-blog](https://img.shields.io/github/stars/zhang17-24/AI-learning-blog?style=for-the-badge&color=7DCFFF)
+
+### 🗓️ 3D 贡献日历
+
+<!-- 由 GitHub Action 每日生成,自动适配明暗主题 -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-purple-dual.svg" alt="3D contribution calendar" />
+</p>
+
+### 🌳 我的贡献盆栽
+
+<!-- 由 git-bonsai Action 每日生长:账号年龄定树干、连续提交开樱花 -->
+<p align="center">
+  <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
+</p>
 
 <!-- 如果你有海外网络/VPN,可以把上面换成 github-readme-stats 系列卡片(国内直连超时):
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhang17-24&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -62,6 +82,14 @@
 
 *「把复杂的东西讲简单,是最高级的表达」*
 
+</div>
+
+<!-- 花园页脚:四季变化,一只猫住在里面 -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="garden-footer-night.svg" />
+    <img src="garden-footer.svg" width="900" alt="garden footer" />
+  </picture>
 </div>
 
 <!-- ================= 可选增强(部署后自行启用) ================= -->
